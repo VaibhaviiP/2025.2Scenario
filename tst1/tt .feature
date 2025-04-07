@@ -1,5 +1,5 @@
 Feature:
-  Test
+  Test Hi Updated Token
 
   Scenario:
     Test
